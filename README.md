@@ -1,2 +1,1 @@
-theme: Cayman
 # coursera-test
